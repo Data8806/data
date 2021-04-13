@@ -1,0 +1,9 @@
+'''游戏常量'''
+
+GAME_NAME = "逆行者"
+
+GAME_FPS = 60
+
+GAME_WIDTH = 510
+
+GAME_HEIGHT = 640
